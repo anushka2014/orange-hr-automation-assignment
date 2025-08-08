@@ -1,5 +1,4 @@
 import time
-
 from pages.dashboard_page import DashboardPage
 from pages.login_page import LoginPage
 from pages.personal_info_management import PIMPage
